@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Logistics & Fleet Tracking Platform",
+  "description": "Enterprise-grade real-time fleet, shipment, and driver tracking application with interactive routing, live simulation dashboard, and AI-predicted ETAs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
